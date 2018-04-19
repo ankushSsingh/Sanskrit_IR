@@ -1,0 +1,104 @@
+<query>
+    <num>1</num>
+    <text> लक्ष्मण मृत:</text>
+</query>
+<query>
+    <num>2</num>
+    <text> हनुमन्तम्  कः शापित्वान् यत सः स्वबलम् विस्मरति इति   </text>
+</query>
+<query>
+    <num>3</num>
+    <text> हनुमान कदाचित अपि पराभुत: वा </text>
+</query>
+<query>
+    <num>4</num>
+	<text> रामसिताया:वयसि किम् अन्त्रम्</text>
+</query>
+<query>
+    <num>5</num>
+    <text>सुग्रिव​: क: आसीत </text>
+</query> 
+<query>
+    <num>6</num>
+    <text> रामस्य्  माता का </text>
+</query>
+<query>
+    <num>7</num>
+    <text>यद् धनुर राम बभंज  </text>
+</query>	
+<query>
+    <num>8</num>
+    <text>सीताया  कतिः भगिन्य्: आसन्</text>
+</query>
+<query>
+    <num>9</num>
+    <text>रावणस्य​ कतिः भृातर: आसन् </text>
+</query>
+<query>
+    <num>10</num>
+    <text>रावण: सितायाः अपहरणम् कथम कृतवान</text>
+</query>
+<query>
+    <num>11</num>
+    <text> रामायणे पृृृृमुखानि राजयानि कानि  </text>
+</query>
+<query>
+    <num>12</num>
+    <text>रावणस्य​ कतिः भार्या: आसन् </text>
+</query>
+<query>
+    <num>13</num>
+    <text> रामस्य​ कतिः भार्या: आसन्</text>
+</query>
+<query>
+    <num>14</num>
+    <text>रावणस्य​ कतिः पुतर: आसन् </text>
+</query>
+<query>
+    <num>15</num>
+    <text> इन्द्र्जीतः कः आसीत|</text>
+</query>
+<query>
+    <num>16</num>
+    <text> इन्द्र्जीतः कः मारितवान्</text>
+</query>
+<query>
+    <num>17</num>
+    <text> वालिरावणयो: कः  शक्तिमत्तर​: </text>
+</query>
+<query>
+    <num>18</num>
+    <text>भ्रातृभाणडौ कौ आस्ताम् </text>
+</query>
+<query>
+    <num>19</num>
+    <text>सेतु निर्माणम् कति: दिनेभ्या: अभवत् </text>
+</query>
+<query>
+    <num>20</num>
+    <text> रामः कान् मारितवान्</text>
+</query>
+<query>
+    <num>21</num>
+    <text>हनुमत:शकतयः काः आसन् </text>
+</query>
+<query>
+    <num>22</num>
+    <text>रामरावणयो: युद्दम् कति: दिनानि आचलत </text>
+</query>
+<query>
+    <num>23</num>
+    <text>रावण: सितायाः अपहरणम​  किमर्थम्  कृतवान</text>
+</query>
+<query>
+    <num>24</num>
+    <text>राम: वनवासे कुतः अगछत्</text>
+</query>
+<query>
+    <num>25</num>
+    <text>  अश्वमेध​: सफल: अभवत्  वा</text>
+</query>
+<query>
+    <num>26</num>
+    <text>जनकस्य​ कश्चित्  पुत्र: आसन वा</text>
+</query>
